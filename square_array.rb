@@ -7,6 +7,3 @@ return newArray
 end
 
 
-# * basket.each do |apple|
-# *     puts "Taking out #{apple}"
-# * end
